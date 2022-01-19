@@ -1,0 +1,77 @@
+body{
+	margin: 0;
+	text-align: center;
+
+}
+.top-container{
+	background-color: #e4f9f5;
+	padding: 100px;
+}
+h1{
+	width: 30%;
+	margin: 0 auto 0 auto;
+	font-family: French Script MT,Edwardian Script ITC;
+	font-size: 50px;
+	color: #66bfbf;
+}
+p{
+	font-size: 20px;
+	font-family: Lucida Calligraphy;
+	font-weight: normal;
+	line-height: 3px;
+}
+
+.middle-container{
+	margin-top: 250px;
+	margin-right: 125px;
+
+}
+.bottom-container{
+	width: 100px;
+	height: 100px;
+
+	position: absolute;
+}
+.top-cloud{
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+.bottom-cloud{
+	position: absolute;
+	left: 350px;
+	bottom: 350px;
+}
+.my-photo{
+	align: center;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	top: 700px;
+	left: 560px;
+}
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 10px;
+	width: 5%;
+	margin-left: 620px;
+
+}
+.bios{
+	font-size: 15px;
+	margin-left: 100px;
+}
+.computer{
+	margin-top: 30px;
+	margin-left: 100px;
+}
+h2{
+	margin-left: 75px;
+}
+table{
+	margin-left: 500px;
+	font-size: 20px;
+	
+}
